@@ -12,37 +12,37 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/SKN26-4th-1st/.github/blob/main/img/tiger.png?raw=true" width="110px;" /><br />
+      <img src="https://github.com/gieun-Park.png" width="110px;" /><br />
       <b>박기은</b><br />
       <sub>Frontend</sub><br />
       <a href="https://github.com/gieun-Park">@gieun-Park</a>
     </td>
     <td align="center">
-      <img src="https://github.com/SKN26-4th-1st/.github/blob/main/img/bear.png?raw=true" width="110px;" /><br />
+      <img src="https://github.com/minhyeok328.png" width="110px;" /><br />
       <b>서민혁</b><br />
       <sub>Frontend</sub><br />
       <a href="https://github.com/minhyeok328">@minhyeok328</a>
     </td>
     <td align="center">
-      <img src="https://github.com/SKN26-4th-1st/.github/blob/main/img/fox.png?raw=true" width="110px;" /><br />
+      <img src="https://github.com/Ocean-2930.png" width="110px;" /><br />
       <b>유동현</b><br />
-      <sub>Backend · 팀 조장</sub><br />
+      <sub>Backend</sub><br />
       <a href="https://github.com/Ocean-2930">@Ocean-2930</a>
     </td>
     <td align="center">
-      <img src="https://github.com/SKN26-4th-1st/.github/blob/main/img/squirrel.png?raw=true" width="110px;" /><br />
+      <img src="https://github.com/dimolto3.png" width="110px;" /><br />
       <b>윤정연</b><br />
       <sub>Modeling (RAG)</sub><br />
       <a href="https://github.com/dimolto3">@dimolto3</a>
     </td>
     <td align="center">
-      <img src="https://github.com/SKN26-4th-1st/.github/blob/main/img/dog.png?raw=true" width="110px;" /><br />
+      <img src="https://github.com/leere2424.png" width="110px;" /><br />
       <b>이레</b><br />
       <sub>Database</sub><br />
       <a href="https://github.com/leere2424">@leere2424</a>
     </td>
     <td align="center">
-      <img src="https://github.com/SKN26-4th-1st/.github/blob/main/img/cat.png?raw=true" width="110px;" /><br />
+      <img src="https://github.com/wjdduddlf112.png" width="110px;" /><br />
       <b>정영일</b><br />
       <sub>Modeling (LangGraph)</sub><br />
       <a href="https://github.com/wjdduddlf112">@wjdduddlf112</a>
