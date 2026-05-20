@@ -1,8 +1,9 @@
 # SKN26 4th 1st Team
 
-> **LG Home** — 자연어로 LG 가전을 검색·추천하고, 사용설명서 기반 Q&A까지 제공하는 AI 가전 상담 서비스
+> **LG Home** - 자연어로 LG 가전을 검색·추천하고, 사용설명서 기반 Q&A까지 제공하는 AI 가전 상담 서비스
 
-[SKN26 4th Project README](https://github.com/SKN26-4th-1st/4th_project/blob/main/README.md)에서 아키텍처, 설치 방법, 평가 결과를 확인할 수 있습니다.
+`4th_project`는 Django 기반 웹 애플리케이션과 LangGraph 기반 LG봇(LGneer), Pinecone RAG를 결합해
+검색-추천-설명서 Q&A를 하나의 서비스 흐름으로 제공합니다.
 
 ---
 
@@ -63,6 +64,21 @@
 
 ---
 
+## 📚 Docs Hub
+
+`4th_project`는 루트 README 외에 구현/운영 중심의 기술 위키를 `docs/`로 분리해 관리합니다.
+
+| 구분 | 링크 |
+|------|------|
+| Project README | [4th_project README](https://github.com/SKN26-4th-1st/4th_project/blob/main/README.md) |
+| Docs Index | [docs/README.md](https://github.com/SKN26-4th-1st/4th_project/blob/main/docs/README.md) |
+| Architecture | [docs/02-architecture/system-architecture.md](https://github.com/SKN26-4th-1st/4th_project/blob/main/docs/02-architecture/system-architecture.md) |
+| API | [docs/06-api/rest-api.md](https://github.com/SKN26-4th-1st/4th_project/blob/main/docs/06-api/rest-api.md) |
+| AI Modeling | [docs/07-ai-modeling/langgraph-flow.md](https://github.com/SKN26-4th-1st/4th_project/blob/main/docs/07-ai-modeling/langgraph-flow.md) |
+| Features | [docs/08-features/README.md](https://github.com/SKN26-4th-1st/4th_project/blob/main/docs/08-features/README.md) |
+
+---
+
 ## Team Identity
 
 복잡한 가전 스펙표와 긴 사용설명서 사이에서 사용자가 **원하는 조건을 말로 전달**하고, **근거 있는 추천·안내**를 받을 수 있게 만드는 것을 목표로 합니다.
@@ -91,7 +107,7 @@
 - Branch 전략 준수
 - Conventional Commit 사용
 - PR 리뷰 후 Merge
-- 프롬프트·RAG 설정·평가 결과 및 설계 근거 문서화
+- 프롬프트·RAG 설정·평가 결과 및 설계 근거 문서화 (`README` + `docs`)
 
 ---
 
